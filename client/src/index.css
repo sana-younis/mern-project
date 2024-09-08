@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(241, 245, 241);
+}
+img:hover {
+  filter: grayscale(70%);
+}
